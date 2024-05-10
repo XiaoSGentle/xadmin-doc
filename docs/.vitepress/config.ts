@@ -11,8 +11,8 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: '后端', link: '/example', items: [{ text: 'gin' }] },
-          { text: '前端', link: '/example', items: [{ text: '' }] },
+          { text: '快速开始', link: '/example', items: [{ text: 'gin' }] },
+          { text: '组件封装', link: '/example', items: [{ text: '' }] },
         ],
       },
     ],
